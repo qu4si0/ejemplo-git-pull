@@ -1,2 +1,2 @@
-# ejemplo-git-pull
-practica con.. git pull
+# README.md
+repositorio para practica con git pull
